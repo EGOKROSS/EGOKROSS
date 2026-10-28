@@ -27,6 +27,19 @@
 
 ---
 
+### 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EGOKROSS&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff" alt="EGOKROSS's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EGOKROSS&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff" alt="Top Languages" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=EGOKROSS&background=000000&border=ffffff&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" width="100%" />
+</div>
+
+---
+
 ### 🚀 Featured Projects
 
 <table align="center" border="0">
@@ -50,19 +63,6 @@
     </td>
   </tr>
 </table>
-
----
-
-### 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EGOKROSS&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff" alt="EGOKROSS's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EGOKROSS&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff" alt="Top Languages" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=EGOKROSS&background=000000&border=ffffff&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" width="100%" />
-</div>
 
 ---
 
