@@ -61,13 +61,13 @@
 
 ---
 
-### 🎮 System Challenge: Chess
+### ♟️daily brain thinking
 
 <div align="center">
   <table border="1" style="border-color: #ffffff; border-style: solid; border-width: 2px; background-color: #000000; padding: 15px; border-collapse: collapse;">
     <tr>
       <td align="center">
-        <h3 style="color: #ffffff; font-family: monospace;">> INITIATE_CHESS_PROTOCOL</h3>
+        <h3 style="color: #ffffff; font-family: monospace;">> GET SMARTER</h3>
         <p style="color: #888888; font-family: monospace;">A new puzzle is generated daily. Click to execute.</p>
         <a href="https://lichess.org/training" target="_blank">
           <img src="https://chess-readme.vercel.app/api?username=EGOKROSS&theme=dark" alt="Daily Chess Puzzle" width="360" />
