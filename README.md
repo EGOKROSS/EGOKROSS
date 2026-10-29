@@ -1,17 +1,13 @@
+<!-- GLITCHY BANNER -->
 <div align="center">
-<pre>
-███████╗ ██████╗  ██████╗ ██╗  ██╗██████╗  ██████╗ ███████╗███████╗
-██╔════╝██╔════╝ ██╔═══██╗██║ ██╔╝██╔══██╗██╔═══██╗██╔════╝██╔════╝
-█████╗  ██║  ███╗██║   ██║█████╔╝ ██████╔╝██║   ██║███████╗███████╗
-██╔══╝  ██║   ██║██║   ██║██╔═██╗ ██╔══██╗██║   ██║╚════██║╚════██║
-███████╗╚██████╔╝╚██████╔╝██║  ██╗██║  ██║╚██████╔╝███████║███████║
-╚══════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝
-</pre>
+  <a href="https://egokross.github.io/MOTH-0000/">
+    <img src="./banner.svg" alt="EGOKROSS" />
+  </a>
+  <br>
+  
+  **Cybersecurity Enthusiast | Python Developer | Ethical Hacking**
 
-**Cybersecurity Enthusiast | Python Developer | Ethical Hacking**
-
-[![Profile Views](https://komarev.com/ghpvc/?username=EGOKROSS&color=000000&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/EGOKROSS)
-
+  [![Profile Views](https://komarev.com/ghpvc/?username=EGOKROSS&color=000000&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/EGOKROSS)
 </div>
 
 ---
@@ -28,10 +24,9 @@
 ---
 
 ### 📊 GitHub Statistics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EGOKROSS&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff" alt="EGOKROSS's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EGOKROSS&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EGOKROSS&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&cache_seconds=1800" alt="EGOKROSS's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EGOKROSS&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff&cache_seconds=1800" alt="Top Languages" width="48%" />
 </div>
 
 <div align="center">
@@ -40,11 +35,21 @@
 
 ---
 
+### 🏆 Trophy Case & Activity
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=EGOKROSS&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Trophies" />
+  <br><br>
+  <!-- If you set up the snake action, uncomment the line below -->
+  <!-- <img src="https://raw.githubusercontent.com/EGOKROSS/EGOKROSS/output/github-contribution-grid-snake-dark.svg" alt="Snake" width="100%" /> -->
+</div>
+
+---
+
 ### 🚀 Featured Projects
 
 <table align="center" border="0">
   <tr>
-    <td width="50%" align="center">
+    <td width="50%" align="center" valign="top">
       <h3>🦋 MOTH-0000</h3>
       <p><i>"There are 0 files here. But you found this."</i></p>
       <p>A Cicada 3301-style hacking puzzle. <br>
@@ -53,7 +58,7 @@
         <img src="https://img.shields.io/badge/⚠️_ENTER_THE_TERMINAL-MOTH--0000-000000?style=for-the-badge&logoColor=white" alt="Play MOTH-0000" />
       </a>
     </td>
-    <td width="50%" align="center">
+    <td width="50%" align="center" valign="top">
       <h3>🛠️ HEAVENTOOLS</h3>
       <p><i>"Network diagnostics & web recon."</i></p>
       <p>A lightweight Python CLI tool with a custom 3D ASCII terminal UI, Port Scanner, and OSINT utilities.</p>
@@ -66,6 +71,20 @@
 
 ---
 
+### 🎮 Interactive Profile
+
 <div align="center">
+  <h3>♟️ Daily Chess Puzzle</h3>
+  <p>Click the board to solve it on Lichess.</p>
+  <a href="https://lichess.org/training" target="_blank">
+    <img src="https://chess-readme.vercel.app/api?username=EGOKROSS&theme=dark" alt="Chess Puzzle" width="400" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <br>
   <i>"The quieter you become, the more you are able to hear."</i>
+  <br><br>
 </div>
