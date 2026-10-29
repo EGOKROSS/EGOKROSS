@@ -1,7 +1,7 @@
 <!-- GLITCHY BANNER -->
 <div align="center">
   <a href="https://egokross.github.io/MOTH-0000/">
-    <img src="./banner.svg" alt="EGOKROSS" />
+    <img src="./banner.svg" alt="EGOKROSS" width="100%" />
   </a>
   <br>
   
@@ -35,16 +35,6 @@
 
 ---
 
-### 🏆 Trophy Case & Activity
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EGOKROSS&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Trophies" />
-  <br><br>
-  <!-- If you set up the snake action, uncomment the line below -->
-  <!-- <img src="https://raw.githubusercontent.com/EGOKROSS/EGOKROSS/output/github-contribution-grid-snake-dark.svg" alt="Snake" width="100%" /> -->
-</div>
-
----
-
 ### 🚀 Featured Projects
 
 <table align="center" border="0">
@@ -71,14 +61,20 @@
 
 ---
 
-### 🎮 Interactive Profile
+### 🎮 System Challenge: Chess
 
 <div align="center">
-  <h3>♟️ Daily Chess Puzzle</h3>
-  <p>Click the board to solve it on Lichess.</p>
-  <a href="https://lichess.org/training" target="_blank">
-    <img src="https://chess-readme.vercel.app/api?username=EGOKROSS&theme=dark" alt="Chess Puzzle" width="400" />
-  </a>
+  <table border="1" style="border-color: #ffffff; border-style: solid; border-width: 2px; background-color: #000000; padding: 15px; border-collapse: collapse;">
+    <tr>
+      <td align="center">
+        <h3 style="color: #ffffff; font-family: monospace;">> INITIATE_CHESS_PROTOCOL</h3>
+        <p style="color: #888888; font-family: monospace;">A new puzzle is generated daily. Click to execute.</p>
+        <a href="https://lichess.org/training" target="_blank">
+          <img src="https://chess-readme.vercel.app/api?username=EGOKROSS&theme=dark" alt="Daily Chess Puzzle" width="360" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
