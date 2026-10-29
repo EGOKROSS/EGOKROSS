@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="160" viewBox="0 0 800 160">
+  <style>
+    /* THE GLITCH ANIMATIONS */
+    @keyframes glitch1 {
+      0% { transform: translate(0); }
+      20% { transform: translate(-3px, 2px); }
+      40% { transform: translate(-3px, -2px); }
+      60% { transform: translate(3px, 2px); }
+      80% { transform: translate(3px, -2px); }
+      100% { transform: translate(0); }
+    }
+    @keyframes glitch2 {
+      0% { transform: translate(0); }
+      20% { transform: translate(3px, -2px); }
+      40% { transform: translate(3px, 2px); }
+      60% { transform: translate(-3px, -2px); }
+      80% { transform: translate(-3px, 2px); }
+      100% { transform: translate(0); }
+    }
+    
+    /* THE LAYERS */
+    .glitch-white { animation: glitch1 0.15s infinite; fill: #ffffff; }
+    .glitch-grey { animation: glitch2 0.15s infinite; fill: #555555; }
+    .text { font-family: 'Courier New', monospace; font-size: 15px; font-weight: bold; }
+  </style>
+  
+  <!-- PITCH BLACK BACKGROUND -->
+  <rect width="100%" height="100%" fill="#000000" />
+  
+  <!-- LAYER 1: THE GREY SHADOW (GLITCHES OPPOSITE) -->
+  <text x="50%" y="50%" text-anchor="middle" class="text glitch-grey">
+    <tspan x="50%" dy="-50">███████╗ ██████╗  ██████╗ ██╗  ██╗██████╗  ██████╗ ███████╗███████╗</tspan>
+    <tspan x="50%" dy="20">██╔════╝██╔════╝ ██╔═══██╗██║ ██╔╝██╔══██╗██╔═══██╗██╔════╝██╔════╝</tspan>
+    <tspan x="50%" dy="20">█████╗  ██║  ███╗██║   ██║█████╔╝ ██████╔╝██║   ██║███████╗███████╗</tspan>
+    <tspan x="50%" dy="20">██╔══╝  ██║   ██║██║   ██║██╔═██╗ ██╔══██╗██║   ██║╚════██║╚════██║</tspan>
+    <tspan x="50%" dy="20">███████╗╚██████╔╝╚██████╔╝██║  ██╗██║  ██║╚██████╔╝███████║███████║</tspan>
+    <tspan x="50%" dy="20">╚══════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝</tspan>
+  </text>
+
+  <!-- LAYER 2: THE PURE WHITE TEXT (GLITCHES) -->
+  <text x="50%" y="50%" text-anchor="middle" class="text glitch-white">
+    <tspan x="50%" dy="-50">███████╗ ██████╗  ██████╗ ██╗  ██╗██████╗  ██████╗ ███████╗███████╗</tspan>
+    <tspan x="50%" dy="20">██╔════╝██╔════╝ ██╔═══██╗██║ ██╔╝██╔══██╗██╔═══██╗██╔════╝██╔════╝</tspan>
+    <tspan x="50%" dy="20">█████╗  ██║  ███╗██║   ██║█████╔╝ ██████╔╝██║   ██║███████╗███████╗</tspan>
+    <tspan x="50%" dy="20">██╔══╝  ██║   ██║██║   ██║██╔═██╗ ██╔══██╗██║   ██║╚════██║╚════██║</tspan>
+    <tspan x="50%" dy="20">███████╗╚██████╔╝╚██████╔╝██║  ██╗██║  ██║╚██████╔╝███████║███████║</tspan>
+    <tspan x="50%" dy="20">╚══════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝</tspan>
+  </text>
+</svg>
